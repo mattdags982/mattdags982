@@ -41,6 +41,8 @@ I have spent the last 4 years working on large construction projects as a Virtua
 
 ### Badges
 
+### Badges
+
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/mattdags982/Buildi" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mattdags982&repo=Buildi&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/mattdags982/Buildi" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mattdags982&repo=Buildi&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mattdags982/trepir-web" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mattdags982&repo=trepir-web&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
