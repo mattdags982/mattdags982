@@ -4,7 +4,9 @@ Hi 👋 My name is Matt D'Agostino
 Software Engineer
 -----------------
 
-I have spent the last 4 years working on large construction projects as a Virtual Design & Construction engineer, while developing a passion for tech. Recently I have been a part of 3 large apps, acting as an integral part o the systems architecture and UI for each.
+Full-stack engineer specializing on the front-end. Experienced with React, Angular, Typescript, Node, Express, Koa, Mongo, and SQL.
+
+I enjoy learning new technologies and collaborating with other passionate engineers to bring unique ideas into reality.
 
 *   🌍  I'm based in Barcelona
 *   ✉️  You can contact me at [mattdags982@gmail.com](mailto:mattdags982@gmail.com)
