@@ -8,7 +8,7 @@ Full-stack engineer specializing on the front-end. Experienced with React, Angul
 
 I enjoy learning new technologies and collaborating with other passionate engineers to bring unique ideas into reality.
 
-*   🌍  I'm based in Barcelona
+*   🌍  I'm based in St Petersburg, FL
 *   ✉️  You can contact me at [mattdags982@gmail.com](mailto:mattdags982@gmail.com)
 *   🚀  I'm currently working on [Trepir](http://trepir.com)
 
